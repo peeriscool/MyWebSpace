@@ -1,2 +1,0 @@
-# MyWebSpace
-Gityhub Pages Website
